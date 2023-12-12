@@ -50,7 +50,7 @@ We implement these metrics via Cloud Monitoring in order to diagnose the system 
 
 In case of scale to multiple systems we can separate and group dashboards regarding to the correspondent analytics system. If scalability problems are not faced, then you may affront one dashboard with multiple metrics becoming it confusing and unintelligible. it's worth mentioning that thinking on scalability makes systems easier to maintain.
 
-![Illustrative chart](/images/monitoringdashboard.jpg)
+![Illustrative chart](/images/monitoringdashboard.png)
 
 
 The above illustrative image depicts how API metrics should be shown.
