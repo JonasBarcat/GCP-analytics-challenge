@@ -78,7 +78,3 @@ module "looker" {
   service_account = "<SA>"
   bq_dataset = "bq-api-dataset"
 }
-
-
-
-

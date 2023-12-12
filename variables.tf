@@ -1,5 +1,3 @@
-##
-
 variable "availability_zone_names" {
   type    = string
   default = "us-west-1a"
@@ -19,3 +17,4 @@ variable "service_account" {
   type    = string
   default =  "sa-demo-tf-sbx@PROJECT_ID.iam.gserviceaccount.com"
 }
+
